@@ -27,9 +27,9 @@ around net sales and net gross margin.
 
 **4.** Create a report on top 5 and bottom 5 products: _[top 5 and bottom 5](https://github.com/smruthis/Excel-Sales-and-Finance-Analytics---AtliQ-Hardwares/blob/main/Top%205%20and%20Bottom%205%20Products.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
