@@ -45,7 +45,7 @@ around net sales and net gross margin.
    **3.**  Create Gross Margin % quarters: _[Gross Margin % by Quarters](https://github.com/smruthis/Excel-Sales-and-Finance-Analytics---AtliQ-Hardwares/blob/main/GM%20%25%20by%20quarters(sub_zone).pdf)_
 
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
